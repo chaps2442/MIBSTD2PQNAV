@@ -5,8 +5,8 @@
 # Le fichier de la base de données est généralement situé dans le chemin :
 # Partition3\organizer\database\db0000057, mais le nom du fichier peut varier.
 #
-# Auteur:   [Votre Nom Ici]
-# Contact:  [Votre Email Ici]
+# Auteur:   Vincent Chapeau
+# Contact:  vincent.chapeau@teeltechcanada.com
 # Date:     30/08/2025
 #
 # Le script extrait les contacts, l'historique de navigation, les dernières
